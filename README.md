@@ -1,28 +1,27 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=180&section=header&text=Welcome%20to%20my%20world!&fontSize=30&fontColor=ffffff" />
-
+<h1 align="center">Hi there! I'm Nícolas 👋</h1>
 <p align="center">
-  <b>Hi there! I'm Nícolas 👋</b><br>
-  Front-End Developer @ Mister Contador 💼<br>
+  <b>Front-End Developer @ Mister Contador 🧾</b><br>
   Lover of Angular, TypeScript, Node.js and automations with Python + Selenium ⚙️
 </p>
 
 ---
 
-### 🔍 My Stats
+## 📊 My Stats
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary>📈 GitHub Stats</summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasmota&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmota&layout=compact&theme=tokyonight" />
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolas19102000&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolas19102000&theme=github_dark" />
+  </div>
 </details>
 
 ---
 
-### 💻 Languages and Tools
+## 🧰 Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
@@ -37,7 +36,7 @@
 
 ---
 
-### 🐍 The Serpentine Path of Progress
+## 🐍 The Serpentine Path of Progress
 
 ```text
-📈 Contribution snake: animado ao vivo 🐍
+Contribution snake: animado ao vivo 🔁
