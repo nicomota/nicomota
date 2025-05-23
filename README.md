@@ -72,7 +72,6 @@
     </div>
 </details>
 
-<!-- Seção centralizada de linguagens e ferramentas -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&text=Languages&height=150&fontSize=60&desc=And%20Tools%20:&descAlignY=75&descAlign=65">
 
