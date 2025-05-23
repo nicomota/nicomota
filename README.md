@@ -38,10 +38,10 @@
     <summary> Top Repositories 📌 </summary>
 <br /><br />
 <div width="100%" align="center">
-    <a href="https://github.com/nicomota/OrganizadorNFe" align="left">
+    <a href="https://github.com/nicomota/MrFrontLogin" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=OrganizadorNFe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/nicomota/sort_files" align="right">
+    <a href="[https://github.com/nicomota/sort_files](https://github.com/nicomota/landing-nico)" align="right">
         <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=sort_files&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
@@ -49,10 +49,10 @@
 <br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
-    <a href="https://github.com/nicomota/busca-em-profundidade" align="left">
+    <a href="https://github.com/nicomota/" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=busca-em-profundidade&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/nicomota/Validador--De-CPF" align="right">
+    <a href="https://github.com/nicomota" align="right">
         <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=Validador--De-CPF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
