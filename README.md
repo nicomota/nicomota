@@ -88,7 +88,7 @@
 
 <br></br>
 
-<div align="left">
+<div align="center">
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
