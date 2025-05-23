@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=400&color=0891B2&center=true&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+world!%3CI'm+a+20+-year-old+%3Cwith+a+passion+for+technology.%3Chailing+from+Florian%C3%B3polis%2C+Brazil%2C%3CBe+Welcome!%3CrestartApplication();" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=400&color=0891B2&center=true&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+world!%3CI'm+a+Front-End+Dev+at+Mister+Contador%3CLover+of+Angular,+TypeScript,+Node.js,+Python+%2B+Selenium%3CBased+in+Brazil%2C+always+learning!" alt="Typing SVG" />
     </a>
     <div align="right">
         <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
@@ -13,8 +13,8 @@
 </h1>
 
 <div align="right">
-    <a href="https://www.github.com/Tgentil" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/Tgentil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+    <a href="https://www.github.com/nicolas19102000" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/nicolas19102000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
     </a>
     <br><br>
     <details>  
@@ -23,16 +23,16 @@
         <div align="center">
             <div style="display: flex; align-items: center;">
                 <div align="left">
-                    <a href="https://wakatime.com/@7114f214-9fa9-4ddc-af1a-f4bd708d4680">
-                        <img src="https://wakatime.com/badge/user/7114f214-9fa9-4ddc-af1a-f4bd708d4680.svg" alt="Total time coded since Jun 27 2023" />
+                    <a href="https://wakatime.com/@SEU_WAKATIME">
+                        <img src="https://wakatime.com/badge/user/SEU_WAKATIME.svg" alt="Total time coded" />
                     </a>
                 </div>
                 <br>
-                <img height="200em" src="https://github-readme-stats-git-master-tgentil.vercel.app/api/top-langs/?username=Tgentil&langs_count=9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&hide=php,scss&cache=86400" />
-                <img height="200em" src="https://github-readme-streak-stats-tgentil.vercel.app?user=Tgentil&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff&excludeDaysLabel=ff7b72" alt="Tgentil-streak-stats" />
+                <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas19102000&langs_count=9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&hide=php,scss&cache=86400" />
+                <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=nicolas19102000&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff&excludeDaysLabel=ff7b72" alt="nicolas-streak-stats" />
                 <br>
-                <img height="200em" src="https://github-readme-stats-git-master-tgentil.vercel.app/api?username=Tgentil&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=prs_merged_percentage&show_icons=true&cache=86400"/><br><br>
-                <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tgentil&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt=" My github activity graph">
+                <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nicolas19102000&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=prs_merged_percentage&show_icons=true&cache=86400"/><br><br>
+                <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=nicolas19102000&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="My github activity graph">
                 <br>                    
             </div>
         </div>
@@ -40,12 +40,13 @@
     <details>
         <summary align="left" >Wakatime - My Week Stats 🕗</summary>
         <div align="left">
-            <img height="600em" src="https://wakatime.com/share/@7114f214-9fa9-4ddc-af1a-f4bd708d4680/53778751-1412-4f74-95fb-accdc2fbdc85.svg" alt="Wakatime languages Stats"/>
+            <img height="600em" src="https://wakatime.com/share/@SEU_WAKATIME/53778751-1412-4f74-95fb-accdc2fbdc85.svg" alt="Wakatime languages Stats"/>
         <br>
-            <img height="600em" src="https://wakatime.com/share/@7114f214-9fa9-4ddc-af1a-f4bd708d4680/4513157d-e5b2-49d5-a119-58367a8868d4.svg" alt="Wakatime Stats" />
+            <img height="600em" src="https://wakatime.com/share/@SEU_WAKATIME/4513157d-e5b2-49d5-a119-58367a8868d4.svg" alt="Wakatime Stats" />
         </div>
     </details>
 </div>
+
 
 <details>
     <summary> Top Repositories 📌 </summary>
