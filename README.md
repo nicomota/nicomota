@@ -83,12 +83,11 @@
 </details>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&text=Languages&height=150&fontSize=60&desc=And%20Tools%20:&descAlignY=75&descAlign=65" align="left">
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&text=Languages&height=150&fontSize=60&desc=And%20Tools%20:&descAlignY=75&descAlign=65">
 
-<br></br>
+  <br>
 
-<div align="center">
+  <!-- Primeira linha de ícones -->
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -108,6 +107,10 @@
     <a href="https://angular.io" target="_blank">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
     </a>
+  </p>
+
+  <!-- Segunda linha de ícones -->
+  <p>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
     </a>
@@ -124,6 +127,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
     </a>
   </p>
+
+  <br>
+
+  <!-- Foto de perfil -->
+  <img alt="nicomota" height="150" src="https://avatars.githubusercontent.com/u/81433433?v=4">
 </div>
 
 ##
