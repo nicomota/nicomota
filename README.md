@@ -13,8 +13,8 @@
 </h1>
 
 <div align="right">
-    <a href="https://www.github.com/nicolas19102000" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/nicolas19102000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+    <a href="https://www.github.com/nicomota" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/nicomota?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
     </a>
     <br><br>
     <details>  
@@ -28,11 +28,11 @@
                     </a>
                 </div>
                 <br>
-                <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas19102000&langs_count=9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&hide=php,scss&cache=86400" />
-                <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=nicolas19102000&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff&excludeDaysLabel=ff7b72" alt="nicolas-streak-stats" />
+                <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomota&langs_count=9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&hide=php,scss&cache=86400" />
+                <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=nicomota&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff&excludeDaysLabel=ff7b72" alt="nicolas-streak-stats" />
                 <br>
-                <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nicolas19102000&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=prs_merged_percentage&show_icons=true&cache=86400"/><br><br>
-                <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=nicolas19102000&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="My github activity graph">
+                <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nicomota&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=prs_merged_percentage&show_icons=true&cache=86400"/><br><br>
+                <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=nicomota&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="My github activity graph">
                 <br>                    
             </div>
         </div>
@@ -145,7 +145,7 @@
 <div align="center">
     <br>
         <p align="centre"><b>Visitors Count </b></p>  
-        <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tgentil}/count.svg" /></p> 
+        <p align="center"><img align="center" src="https://avatars.githubusercontent.com/u/81433433?v=4" /></p> 
     <br>
         </div></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
