@@ -145,9 +145,9 @@
 <div align="center">
     <br>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicomota_/nicomota_/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicomota_/nicomota_/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicomota_/nicomota_/output/github-contribution-grid-snake.svg">
     </picture>
         <p align="centre"><b>Visitors Count </b></p>  
         <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nicomota_}/count.svg" /></p> 
