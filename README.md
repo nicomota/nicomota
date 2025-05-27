@@ -5,7 +5,8 @@
 </div>
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=400&color=0891B2&center=true&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+world!%3CI'm+a+25+-year-old+%3Cwith+a+passion+for+technology.%3Chailing+from+Florian%C3%B3polis%2C+Brazil%2C%3CBe+Welcome!%3CrestartApplication();" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=400&color=0891B2&center=true&vCenter=true&width=435&separator=%3C&lines=Olá,+me+chamo+Nícolas+👋<Estou+atuando+como+Dev+Front-End+Jr<Especializado+em+Angular,+TS+e+Node<Baseado+em+Florianópolis+🌴" alt="Typing SVG" />
+
     </a>
     <div align="right">
         <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
@@ -23,7 +24,7 @@
         <div align="center">
             <div style="display: flex; align-items: center;">
                 <br>
-                <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomota&langs_count=9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&hide=php,scss&cache=86400" />
+                <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomota&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Linguagens%20Mais%20Usadas&layout=compact&hide=php,scss,shell,makefile,jupyter%20notebook" />
                 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=nicomota&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff&excludeDaysLabel=ff7b72" alt="nicomota-streak-stats" />
                 <br>
                 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nicomota&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=prs_merged_percentage&show_icons=true&cache=86400"/><br><br>
