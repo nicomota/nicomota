@@ -23,8 +23,7 @@
         <div align="center">
             <div style="display: flex; align-items: center;">
                 <br>
-                <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomota&langs_count=9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&hide=php,scss&cache=86400" />
-
+                <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomota&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Linguagens%20Mais%20Usadas&hide=php,scss,shell,makefile,jupyter%20notebook,dockerfile,cmake" />
                 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=nicomota&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff&excludeDaysLabel=ff7b72" alt="nicomota-streak-stats" />
                 <br>
                 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nicomota&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=prs_merged_percentage&show_icons=true&cache=86400"/><br><br>
