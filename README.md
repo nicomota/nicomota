@@ -138,6 +138,7 @@
 
 <br></br>
 
+<div align="center">
 <br>
     <p align="center"><b>The Serpentine Path of Progress 🐍</b></p>
 <picture>
@@ -146,6 +147,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
 <div align="center">
 
         </div></div>
