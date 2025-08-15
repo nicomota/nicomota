@@ -51,7 +51,7 @@
 
 <!-- Contador de visitas -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nicomota.nicomota&right_color=A020F0&left_color=ffffff&style=for-the-badge" alt="Visitas no perfil"/>
+  <img src="https://img.shields.io/badge/Visitas-1234-A020F0?style=for-the-badge&logo=github&logoColor=ffffff" alt="Contador estilo placar"/>
 </div>
 
 <!-- Snake Animation no rodapé -->
