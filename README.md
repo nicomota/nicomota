@@ -34,7 +34,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=MrFrontLogin&theme=midnight-purple&hide_border=true" />
     </a>
     <a href="[https://github.com/nicomota/pluggy_status](https://github.com/nicomota/pluggy_status)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=MrFrontLogin&theme=midnight-purple&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=pluggy_status&theme=midnight-purple&hide_border=true" />
     </a>
 </div>
 
