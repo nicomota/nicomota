@@ -49,6 +49,11 @@
 
 ---
 
+<!-- Contador de visitas -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nicomota.nicomota&right_color=A020F0&left_color=ffffff&style=for-the-badge" alt="Visitas no perfil"/>
+</div>
+
 <!-- Snake Animation no rodapé -->
 <div align="center">
   <picture>
