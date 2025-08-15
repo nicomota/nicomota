@@ -42,6 +42,9 @@
      <a href="https://github.com/nicomota/upload-notas">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=upload-notas&theme=midnight-purple&hide_border=true" />
     </a>
+         <a href="https://github.com/nicomota/nico_profile">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=nico_profile&theme=midnight-purple&hide_border=true" />
+    </a>
 </div>
 
 ---
