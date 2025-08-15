@@ -1,6 +1,7 @@
+<!-- Topo animado -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-<!-- GIF de apresentação -->
+<!-- Apresentação -->
 <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
     <h1>Olá, eu sou o Nícolas Mota</h1>
@@ -39,13 +40,23 @@
 
 ---
 
-### 📈 Skills em Evolução
-```html
-HTML        ████████████████████░░░░  85%
-CSS         ███████████████████░░░░░  80%
-JavaScript  ████████████████████░░░░  85%
-TypeScript  ████████████████░░░░░░░░  70%
-Angular     ██████████████████░░░░░░  75%
-NodeJS      ████████████████░░░░░░░░  70%
-Python      █████████████████████░░░  90%
-Java        ██████████████░░░░░░░░░░  60%
+### 🌐 Contato & Redes
+<div align="center">
+    <a href="https://www.linkedin.com/in/nicomota/"><img src="https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/nicolasmota_/"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Email-A020F0?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+---
+
+<!-- Snake Animation no rodapé -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Rodapé animado -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
