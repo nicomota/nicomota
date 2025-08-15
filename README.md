@@ -49,9 +49,9 @@
 
 ---
 
-<!-- Contador de visitas -->
+<!-- Contador de visitas estilo placar -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Visitas-1234-A020F0?style=for-the-badge&logo=github&logoColor=ffffff" alt="Contador estilo placar"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nicomota.nicomota&right_color=A020F0&left_color=ffffff&style=flat-square&logo=github&logoColor=ffffff" alt="Contador de visitas" />
 </div>
 
 <!-- Snake Animation no rodapé -->
