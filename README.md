@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
     <h1>Olá, eu sou o Nícolas Mota</h1>
     <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Entusiasta+em+Inovação+e+Tecnologia;Construindo+soluções+com+código;Aprendendo+e+evoluindo+sempre" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Inovação+e+Tecnologia;Construindo+soluções+com+código;Aprendendo+e+evoluindo+sempre" alt="Typing SVG" />
     </a>
 </div>
 
