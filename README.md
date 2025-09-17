@@ -66,9 +66,9 @@
 <!-- Snake Animation no rodapé -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicomota/nicomota/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicomota/nicomota/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/nicomota/nicomota/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
