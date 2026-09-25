@@ -19,28 +19,6 @@
 
 ---
 
-
-### 🌟 Meus Projetos
-<div align="center">
-    <a href="https://github.com/nicomota/MrFrontLogin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=MrFrontLogin&theme=midnight-purple&hide_border=true" />
-    </a>
-    <a href="https://github.com/nicomota/pluggy_status">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=pluggy_status&theme=midnight-purple&hide_border=true" />
-    </a>
-    <a href="https://github.com/nicomota/validador_plano_de_contas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=validador_plano_de_contas&theme=midnight-purple&hide_border=true" />
-    </a>
-     <a href="https://github.com/nicomota/upload-notas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=upload-notas&theme=midnight-purple&hide_border=true" />
-    </a>
-         <a href="https://github.com/nicomota/nico_profile">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicomota&repo=nico_profile&theme=midnight-purple&hide_border=true" />
-    </a>
-</div>
-
----
-
 ### 🌐 Contato & Redes
 <div align="center">
     <a href="https://www.linkedin.com/in/nicomota/"><img src="https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
